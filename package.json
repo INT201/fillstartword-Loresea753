@@ -5,6 +5,7 @@
   "devDependencies": {
     "@babel/core": "*",
     "@babel/preset-env": "*",
+    "@babel/template": "^7.18.10",
     "babel-jest": "*",
     "jest": "*"
   },
